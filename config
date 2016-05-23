@@ -1,6 +1,6 @@
-name                            : total.js
-author                          : You company name
-version                         : 1.01
+name                            : Total.js Webpack and Angular 2 Starter kit
+author                          : Migsar Navarro
+version                         : 0.0.1
 secret                          : secret-key-for-web
 
 // Mail settings
